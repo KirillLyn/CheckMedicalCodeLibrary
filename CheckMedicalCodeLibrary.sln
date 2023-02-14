@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMedicalCodeLibrary", "CheckMedicalCodeLibrary\CheckMedicalCodeLibrary.csproj", "{57FBA0AA-B11D-45B2-9F0D-C066FCC03F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMedicalCodeTests", "CheckMedicalCodeTests\CheckMedicalCodeTests.csproj", "{A7FC302D-FFA7-4C0E-86F0-E8EF483DB0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57FBA0AA-B11D-45B2-9F0D-C066FCC03F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FBA0AA-B11D-45B2-9F0D-C066FCC03F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FBA0AA-B11D-45B2-9F0D-C066FCC03F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FBA0AA-B11D-45B2-9F0D-C066FCC03F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FC302D-FFA7-4C0E-86F0-E8EF483DB0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FC302D-FFA7-4C0E-86F0-E8EF483DB0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FC302D-FFA7-4C0E-86F0-E8EF483DB0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FC302D-FFA7-4C0E-86F0-E8EF483DB0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55118495-1FE9-4DB8-B58C-5788C29CADF8}
+	EndGlobalSection
+EndGlobal
